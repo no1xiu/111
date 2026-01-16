@@ -1,7 +1,6 @@
 # 目录
 * [常见问题](README.md)
-* [更新日志](-/_book
-/chapter/rizhi.md)
+* [更新日志](-/_book/chapter/rizhi.md)
 * [快速使用流程](-/_book/chapter/liucheng.md)
 * [产品手册](-/_book/chapter/ztjj.md)
   * [第一章：治理平台](-/_book/chapter1/1z.md)
